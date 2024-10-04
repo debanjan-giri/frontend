@@ -1,5 +1,6 @@
-1. understand the requirement , proper explanation have solution
-2. divide problem into small chunk , so focus on one thing at a time
-3. observe why i write this line , ask yourself , what it solved ?
-4. create algorithm in your mind , then jump to code , avoid re write
-5. learn from error , why and how , avoid future error in your code
+1. understand the requirement , inside proper explanation have solution
+2. break problem into small chunk , so focus one thing at a time in your mind
+3. Ask yourself why you wrote single word in your code — what did it solve?
+4. think algorithm in your mind , then what you have, then jump to code
+5. learn from error , what cause , then avoid future error in your code
+6. focus on solving problem ,bcz its not code problem , so be mindfullness
