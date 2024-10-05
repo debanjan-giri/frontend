@@ -87,10 +87,10 @@ function ApiCall() {
         </form>
 
         <div className="d-flex gap-2">
-          <button className="btn btn-secondary " onClick={AsyncFn}>
+          <button className="btn btn-primary " onClick={AsyncFn}>
             Async Fn
           </button>
-          <button className="btn btn-secondary" onClick={AxiosGetFn}>
+          <button className="btn btn-primary" onClick={AxiosGetFn}>
             Axios Promise
           </button>
         </div>

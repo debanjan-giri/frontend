@@ -25,6 +25,8 @@
     "react-router-dom": "^6.26.2",
     "react-toastify": "^10.0.5",
     "sass": "^1.79.4",
+    "survey-core": "^1.12.4",
+    "survey-react-ui": "^1.12.4",
     "swiper": "^11.1.14",
     "yup": "^1.4.0"
   },

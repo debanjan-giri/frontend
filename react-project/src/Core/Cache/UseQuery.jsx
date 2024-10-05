@@ -7,7 +7,7 @@ import {
   import axios from "axios";
   import React from "react";
   
-  // why we use ?
+  // why we use ? reduce the server use
   
   const client = new QueryClient({
     defaultOptions: {

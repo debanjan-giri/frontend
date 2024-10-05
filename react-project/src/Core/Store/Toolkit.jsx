@@ -1,4 +1,4 @@
-// why we use ?
+// why we use ? global storage for any component
 
 // slice
 import { configureStore, createSlice } from "@reduxjs/toolkit";
